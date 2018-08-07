@@ -5,4 +5,6 @@ A program that emulates all the docking stations, bikes, and infrastructure (rep
 
 ### How to use
 
-```ruby boris.rb```
+```shell
+ruby boris.rb
+```
